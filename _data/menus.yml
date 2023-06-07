@@ -1,0 +1,21 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Contact"
+    url: "/contact/"
+    weight: 3
+  - name: "Login"
+    url: "https://secure.westernverify.com"
+    weight: 4
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Background Checks",
+    "description": "Choose from a variety of <br/>options designed to fit your specific needs.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Verification",
+    "description": "To protect your privacy, we make sure you're the one running your own check.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Results",
+    "description": "We'll run your results fast and let you know as soon as they're ready for you.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

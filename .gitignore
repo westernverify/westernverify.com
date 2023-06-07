@@ -3,3 +3,15 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+Gemfile.lock
+**/Gemfile.lock
+tmp
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.idea
+node_modules
+npm-debug.log
