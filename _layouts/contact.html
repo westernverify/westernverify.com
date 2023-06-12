@@ -5,12 +5,53 @@ bodyClass: "page-contact"
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                {% include call.html show_button=false %}
-                <div class="content mt-4">{{content}}</div>
+    <div class="justify-content-start">
+        <div class="service service-single">
+            <h1 class="title">{{page.title}}</h1>
+            <div class="row mt-4">
+                <div class="col-md-8 mb-4">
+                    <div class="content">
+                        {{content}}
+                </div>
+                <div class="col-md-4">
+                    <div class="content">
+                        {% include call.html show_button=false %}
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Day</th>
+                                    <th>Hours</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Tuesday</td>
+                                    <td>8:30am - 5:00pm</td>
+                                </tr>
+                                <tr>
+                                    <td>Wednesday</td>
+                                    <td>8:30am - 5:00pm</td>
+                                </tr>
+                                <tr>
+                                    <td>Thursday</td>
+                                    <td>8:30am - 5:00pm</td>
+                                </tr>
+                                <tr>
+                                    <td>Friday</td>
+                                    <td>8:30am - 5:00pm</td>
+                                </tr>
+                                <tr>
+                                    <td>Saturday</td>
+                                    <td>10:00am - 4:00pm</td>
+                                </tr>
+                                <tr>
+                                    <td>Saturday</td>
+                                    <td>Closed</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

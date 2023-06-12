@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'Western Verify'
+title: "Western Verify"
 
 logo:
   mobile: "images/logo/logo-mobile.png"
@@ -10,8 +10,8 @@ logo:
   desktop_height: "40px"
   desktop_width: "186.25px"
 
-home: 
-  limit_services: 6
+home:
+  limit_services: 3
 
 collections:
   services:
