@@ -1,6 +1,7 @@
 baseurl: "/"
 permalink: pretty
 title: "Western Verify"
+url: "https://westernverify.com"
 
 logo:
   mobile: "images/logo/logo-mobile.png"
@@ -37,6 +38,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
