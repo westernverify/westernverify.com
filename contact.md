@@ -4,12 +4,12 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Are you ready to take your screening processes to the next level? Our dedicated sales and support teams are here to help you explore exciting possibilities and guide you towards success. Whether you have questions about our products, need assistance with placing an order, or simply want to discuss your specific needs, we're just a conversation away.
 
 <form>
   <div class="form-row">
     <div class="form-group col-md-6">
-      <label for="inputName">Your Name</label>
+      <label for="inputName">Name</label>
       <input type="text" class="form-control" id="inputName" placeholder="John Smith">
     </div>
     <div class="form-group col-md-6">
