@@ -10,11 +10,11 @@ Are you ready to take your screening processes to the next level? Our dedicated 
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="name">Name</label>
-      <input type="text" class="form-control" id="name" name="name" placeholder="What should we call you?">
+      <input type="text" class="form-control" id="name" name="name" autocomplete="name" placeholder="What should we call you?">
     </div>
     <div class="form-group col-md-6">
       <label for="email">Email</label>
-      <input type="email" class="form-control" id="email" name="email" placeholder="What's your email address?">
+      <input type="email" class="form-control" id="email" name="email" autocomplete="email" placeholder="What's your email address?">
     </div>
   </div>
   <div class="form-group">
