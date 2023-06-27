@@ -1,3 +1,5 @@
-email: 'sales@westernverify.com'
-phone: '1-888-610-WEST'
-contact_button_link: 'contact'
+email:
+  sales: "sales@westernverify.com"
+  support: "support@westernverify.com"
+phone: "1-888-610-WEST"
+contact_button_link: "/contact"
